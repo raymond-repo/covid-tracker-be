@@ -7,7 +7,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-@Entity(name = "T_VACCINE")
+@Entity(name = "t_vaccine")
 public class VaccineSummaryEntity implements Serializable {
 
 	/** Serial Version UID */

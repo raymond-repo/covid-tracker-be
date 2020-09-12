@@ -1,0 +1,154 @@
+[
+    {
+        "name": "BARMM",
+        "totalCase": "715",
+        "activeCase": "195",
+        "recovered": "507",
+        "died": "13",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "CAR",
+        "totalCase": "881",
+        "activeCase": "369",
+        "recovered": "503",
+        "died": "9",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "CARAGA",
+        "totalCase": "554",
+        "activeCase": "200",
+        "recovered": "349",
+        "died": "5",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "NCR",
+        "totalCase": "126955",
+        "activeCase": "35265",
+        "recovered": "89928",
+        "died": "1762",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "Region 1",
+        "totalCase": "1211",
+        "activeCase": "398",
+        "recovered": "784",
+        "died": "29",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "Region 2",
+        "totalCase": "921",
+        "activeCase": "345",
+        "recovered": "570",
+        "died": "6",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "Region 3",
+        "totalCase": "9002",
+        "activeCase": "3865",
+        "recovered": "5009",
+        "died": "128",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "Region 4-A",
+        "totalCase": "34399",
+        "activeCase": "11819",
+        "recovered": "22232",
+        "died": "348",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "Region 4-B",
+        "totalCase": "694",
+        "activeCase": "171",
+        "recovered": "516",
+        "died": "7",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "Region 5",
+        "totalCase": "1745",
+        "activeCase": "682",
+        "recovered": "1033",
+        "died": "30",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "Region 6",
+        "totalCase": "5743",
+        "activeCase": "2895",
+        "recovered": "2768",
+        "died": "80",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "Region 7",
+        "totalCase": "19993",
+        "activeCase": "1861",
+        "recovered": "17101",
+        "died": "1031",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "Region 8",
+        "totalCase": "3165",
+        "activeCase": "1490",
+        "recovered": "1661",
+        "died": "14",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "Region 9",
+        "totalCase": "1635",
+        "activeCase": "513",
+        "recovered": "1072",
+        "died": "50",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "Region 10",
+        "totalCase": "1657",
+        "activeCase": "654",
+        "recovered": "983",
+        "died": "20",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "Region 11",
+        "totalCase": "2275",
+        "activeCase": "528",
+        "recovered": "1688",
+        "died": "59",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "Region 12",
+        "totalCase": "666",
+        "activeCase": "181",
+        "recovered": "481",
+        "died": "4",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "Unkown Regions",
+        "totalCase": "3903",
+        "activeCase": "105",
+        "recovered": "3791",
+        "died": "7",
+        "datePublished": "September 02, 2020"
+    },
+    {
+        "name": "ROF",
+        "totalCase": "10326",
+        "activeCase": "2671",
+        "recovered": "7634",
+        "died": "21",
+        "datePublished": "September 02, 2020"
+    }
+]

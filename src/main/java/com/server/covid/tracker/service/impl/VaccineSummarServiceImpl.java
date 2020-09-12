@@ -22,7 +22,7 @@ import com.server.covid.tracker.service.VaccineSummaryService;
 @Service
 public class VaccineSummarServiceImpl implements VaccineSummaryService {
 
-	private static final Logger lOGGER = LoggerFactory.getLogger(RegionServiceImpl.class);
+	private static final Logger lOGGER = LoggerFactory.getLogger(VaccineSummarServiceImpl.class);
 
 	@Autowired
 	private VaccineSummaryDAO vaccineSummaryDAO;

@@ -1,6 +1,6 @@
-package com.server.covid.tracker.dto.request;
+package com.server.covid.tracker.dto.response;
 
-public class RegionRequest {
+public class RegionResponse {
 
 	private String name;
 

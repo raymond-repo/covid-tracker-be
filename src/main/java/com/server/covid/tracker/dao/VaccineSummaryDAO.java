@@ -13,7 +13,7 @@ public interface VaccineSummaryDAO extends JpaRepository<VaccineSummaryEntity, I
 	
 	void deleteByDeveloperManufacturer(String developerManufacturer);
 	
-	@Query(value = "SELECT date_published FROM T_VACCINE ORDER BY date_published DESC LIMIT 1", nativeQuery = true)
+	@Query(value = "SELECT date_published FROM t_vaccine ORDER BY date_published DESC LIMIT 1", nativeQuery = true)
 	String getLatestPublishedDate();
 	
 	List<VaccineSummaryEntity> findByDatePublishedOrderByTrialPhaseDesc(String datePublished);
